@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-8d3bbb98.js",
+    "file": "start-994554ed.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -84,7 +84,7 @@
       "_paths-4b3c6e7e.js"
     ],
     "css": [
-      "assets/pages/osztaly/index.svelte-3b792b19.css"
+      "assets/pages/osztaly/internal/index.svelte-fe13c588.css"
     ]
   },
   "src/routes/osztaly/internal/__layout.svelte": {
@@ -114,7 +114,7 @@
       "_paths-4b3c6e7e.js"
     ],
     "css": [
-      "assets/pages/osztaly/index.svelte-3b792b19.css"
+      "assets/pages/osztaly/internal/index.svelte-fe13c588.css"
     ]
   },
   "src/routes/osztaly/internal/[name].svelte": {
@@ -157,15 +157,13 @@
     ]
   },
   "src/routes/egyeb/bejelentkezes.svelte": {
-    "file": "pages/egyeb/bejelentkezes.svelte-f90545d9.js",
+    "file": "pages/egyeb/bejelentkezes.svelte-75d510aa.js",
     "src": "src/routes/egyeb/bejelentkezes.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-57833bbe.js",
-      "_singletons-4a680913.js",
-      "_paths-b27dcd08.js",
-      "_paths-4b3c6e7e.js"
+      "_singletons-4a680913.js"
     ],
     "css": [
       "assets/pages/egyeb/bejelentkezes.svelte-b5bca343.css"
