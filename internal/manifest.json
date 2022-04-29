@@ -1,0 +1,210 @@
+{
+  ".svelte-kit/runtime/client/start.js": {
+    "file": "start-5e1b62be.js",
+    "src": ".svelte-kit/runtime/client/start.js",
+    "isEntry": true,
+    "imports": [
+      "_index-57833bbe.js",
+      "_paths-4b3c6e7e.js"
+    ],
+    "dynamicImports": [
+      "src/routes/__layout.svelte",
+      ".svelte-kit/runtime/components/error.svelte",
+      "src/routes/index.svelte",
+      "src/routes/osztalyfonok/index.svelte",
+      "src/routes/osztaly/index.svelte",
+      "src/routes/osztaly/internal/__layout.svelte",
+      "src/routes/osztaly/internal/index.svelte",
+      "src/routes/osztaly/internal/[name].svelte",
+      "src/routes/osztaly/[name].svelte",
+      "src/routes/egyeb/szalagavatovideo.svelte",
+      "src/routes/egyeb/bejelentkezes.svelte"
+    ]
+  },
+  "src/routes/__layout.svelte": {
+    "file": "pages/__layout.svelte-7b4948a1.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-57833bbe.js",
+      "_paths-4b3c6e7e.js",
+      "_paths-b27dcd08.js"
+    ],
+    "css": [
+      "assets/pages/__layout.svelte-4e7c6e0c.css"
+    ]
+  },
+  ".svelte-kit/runtime/components/error.svelte": {
+    "file": "error.svelte-af7d5f70.js",
+    "src": ".svelte-kit/runtime/components/error.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-57833bbe.js"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "pages/index.svelte-85273e55.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-57833bbe.js",
+      "_functions-8420778b.js",
+      "_topRight-5c87e93e.js",
+      "_paths-4b3c6e7e.js",
+      "_paths-b27dcd08.js"
+    ]
+  },
+  "src/routes/osztalyfonok/index.svelte": {
+    "file": "pages/osztalyfonok/index.svelte-849812e2.js",
+    "src": "src/routes/osztalyfonok/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-57833bbe.js",
+      "_functions-8420778b.js",
+      "_topRight-5c87e93e.js",
+      "_paths-4b3c6e7e.js",
+      "_paths-b27dcd08.js"
+    ]
+  },
+  "src/routes/osztaly/index.svelte": {
+    "file": "pages/osztaly/index.svelte-2473ae22.js",
+    "src": "src/routes/osztaly/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-57833bbe.js",
+      "_functions-8420778b.js",
+      "_friendsItem-9413b73b.js",
+      "_paths-b27dcd08.js",
+      "_paths-4b3c6e7e.js"
+    ],
+    "css": [
+      "assets/pages/osztaly/index.svelte-3b792b19.css"
+    ]
+  },
+  "src/routes/osztaly/internal/__layout.svelte": {
+    "file": "pages/osztaly/internal/__layout.svelte-82f14d32.js",
+    "src": "src/routes/osztaly/internal/__layout.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-57833bbe.js",
+      "_paths-4b3c6e7e.js",
+      "_paths-b27dcd08.js"
+    ],
+    "css": [
+      "assets/pages/__layout.svelte-4e7c6e0c.css"
+    ]
+  },
+  "src/routes/osztaly/internal/index.svelte": {
+    "file": "pages/osztaly/internal/index.svelte-cde5aab1.js",
+    "src": "src/routes/osztaly/internal/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-57833bbe.js",
+      "_functions-8420778b.js",
+      "_friendsItem-9413b73b.js",
+      "_paths-b27dcd08.js",
+      "_paths-4b3c6e7e.js"
+    ],
+    "css": [
+      "assets/pages/osztaly/index.svelte-3b792b19.css"
+    ]
+  },
+  "src/routes/osztaly/internal/[name].svelte": {
+    "file": "pages/osztaly/internal/_name_.svelte-20358ea9.js",
+    "src": "src/routes/osztaly/internal/[name].svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-57833bbe.js",
+      "_functions-8420778b.js",
+      "_topRight-5c87e93e.js",
+      "_paths-b27dcd08.js",
+      "_paths-4b3c6e7e.js"
+    ]
+  },
+  "src/routes/osztaly/[name].svelte": {
+    "file": "pages/osztaly/_name_.svelte-2cef7b24.js",
+    "src": "src/routes/osztaly/[name].svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-57833bbe.js",
+      "_functions-8420778b.js",
+      "_topRight-5c87e93e.js",
+      "_paths-b27dcd08.js",
+      "_paths-4b3c6e7e.js"
+    ]
+  },
+  "src/routes/egyeb/szalagavatovideo.svelte": {
+    "file": "pages/egyeb/szalagavatovideo.svelte-7a9362ae.js",
+    "src": "src/routes/egyeb/szalagavatovideo.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-57833bbe.js",
+      "_paths-4b3c6e7e.js"
+    ],
+    "css": [
+      "assets/pages/egyeb/szalagavatovideo.svelte-bfebc375.css"
+    ]
+  },
+  "src/routes/egyeb/bejelentkezes.svelte": {
+    "file": "pages/egyeb/bejelentkezes.svelte-81c6b81f.js",
+    "src": "src/routes/egyeb/bejelentkezes.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-57833bbe.js",
+      "_paths-b27dcd08.js",
+      "_paths-4b3c6e7e.js"
+    ],
+    "css": [
+      "assets/pages/egyeb/bejelentkezes.svelte-b5bca343.css"
+    ]
+  },
+  "_index-57833bbe.js": {
+    "file": "chunks/index-57833bbe.js"
+  },
+  "_paths-4b3c6e7e.js": {
+    "file": "chunks/paths-4b3c6e7e.js"
+  },
+  "_paths-b27dcd08.js": {
+    "file": "chunks/paths-b27dcd08.js",
+    "imports": [
+      "_paths-4b3c6e7e.js"
+    ]
+  },
+  "_functions-8420778b.js": {
+    "file": "chunks/functions-8420778b.js",
+    "imports": [
+      "_paths-4b3c6e7e.js"
+    ]
+  },
+  "_topRight-5c87e93e.js": {
+    "file": "chunks/topRight-5c87e93e.js",
+    "imports": [
+      "_index-57833bbe.js",
+      "_paths-4b3c6e7e.js",
+      "_paths-b27dcd08.js"
+    ],
+    "css": [
+      "assets/topRight-d38a10e5.css"
+    ]
+  },
+  "_friendsItem-9413b73b.js": {
+    "file": "chunks/friendsItem-9413b73b.js",
+    "imports": [
+      "_index-57833bbe.js"
+    ],
+    "css": [
+      "assets/friendsItem-ca6e8348.css"
+    ]
+  }
+}
