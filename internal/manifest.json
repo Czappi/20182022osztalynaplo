@@ -1,10 +1,11 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-d44e2439.js",
+    "file": "start-8d3bbb98.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
       "_index-57833bbe.js",
+      "_singletons-4a680913.js",
       "_paths-4b3c6e7e.js"
     ],
     "dynamicImports": [
@@ -156,12 +157,13 @@
     ]
   },
   "src/routes/egyeb/bejelentkezes.svelte": {
-    "file": "pages/egyeb/bejelentkezes.svelte-81c6b81f.js",
+    "file": "pages/egyeb/bejelentkezes.svelte-f90545d9.js",
     "src": "src/routes/egyeb/bejelentkezes.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-57833bbe.js",
+      "_singletons-4a680913.js",
       "_paths-b27dcd08.js",
       "_paths-4b3c6e7e.js"
     ],
@@ -171,6 +173,9 @@
   },
   "_index-57833bbe.js": {
     "file": "chunks/index-57833bbe.js"
+  },
+  "_singletons-4a680913.js": {
+    "file": "chunks/singletons-4a680913.js"
   },
   "_paths-4b3c6e7e.js": {
     "file": "chunks/paths-4b3c6e7e.js"
