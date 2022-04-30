@@ -1,10 +1,10 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-994554ed.js",
+    "file": "start-143d9ae5.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
-      "_index-57833bbe.js",
+      "_index-9d55655f.js",
       "_singletons-4a680913.js",
       "_paths-4b3c6e7e.js"
     ],
@@ -23,12 +23,12 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-7b4948a1.js",
+    "file": "pages/__layout.svelte-e0d4692d.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-57833bbe.js",
+      "_index-9d55655f.js",
       "_paths-4b3c6e7e.js",
       "_paths-b27dcd08.js"
     ],
@@ -37,63 +37,63 @@
     ]
   },
   ".svelte-kit/runtime/components/error.svelte": {
-    "file": "error.svelte-af7d5f70.js",
+    "file": "error.svelte-4f7b8b69.js",
     "src": ".svelte-kit/runtime/components/error.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-57833bbe.js"
+      "_index-9d55655f.js"
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-08e0a7ae.js",
+    "file": "pages/index.svelte-d75730a6.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-57833bbe.js",
-      "_functions-8420778b.js",
-      "_topRight-5c87e93e.js",
+      "_index-9d55655f.js",
+      "_functions-927932af.js",
+      "_topRight-3b3dd44a.js",
       "_paths-4b3c6e7e.js",
       "_paths-b27dcd08.js"
     ]
   },
   "src/routes/osztalyfonok/index.svelte": {
-    "file": "pages/osztalyfonok/index.svelte-849812e2.js",
+    "file": "pages/osztalyfonok/index.svelte-8bca5644.js",
     "src": "src/routes/osztalyfonok/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-57833bbe.js",
-      "_functions-8420778b.js",
-      "_topRight-5c87e93e.js",
+      "_index-9d55655f.js",
+      "_functions-927932af.js",
+      "_topRight-3b3dd44a.js",
       "_paths-4b3c6e7e.js",
       "_paths-b27dcd08.js"
     ]
   },
   "src/routes/osztaly/index.svelte": {
-    "file": "pages/osztaly/index.svelte-2473ae22.js",
+    "file": "pages/osztaly/index.svelte-fe29e70c.js",
     "src": "src/routes/osztaly/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-57833bbe.js",
-      "_functions-8420778b.js",
-      "_friendsItem-9413b73b.js",
+      "_index-9d55655f.js",
+      "_functions-927932af.js",
+      "_friendsItem-8cb62957.js",
       "_paths-b27dcd08.js",
       "_paths-4b3c6e7e.js"
     ],
     "css": [
-      "assets/pages/osztaly/internal/index.svelte-fe13c588.css"
+      "assets/pages/osztaly/index.svelte-3b792b19.css"
     ]
   },
   "src/routes/osztaly/internal/__layout.svelte": {
-    "file": "pages/osztaly/internal/__layout.svelte-82f14d32.js",
+    "file": "pages/osztaly/internal/__layout.svelte-522ef86c.js",
     "src": "src/routes/osztaly/internal/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-57833bbe.js",
+      "_index-9d55655f.js",
       "_paths-4b3c6e7e.js",
       "_paths-b27dcd08.js"
     ],
@@ -102,54 +102,54 @@
     ]
   },
   "src/routes/osztaly/internal/index.svelte": {
-    "file": "pages/osztaly/internal/index.svelte-cde5aab1.js",
+    "file": "pages/osztaly/internal/index.svelte-699e4289.js",
     "src": "src/routes/osztaly/internal/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-57833bbe.js",
-      "_functions-8420778b.js",
-      "_friendsItem-9413b73b.js",
+      "_index-9d55655f.js",
+      "_functions-927932af.js",
+      "_friendsItem-8cb62957.js",
       "_paths-b27dcd08.js",
       "_paths-4b3c6e7e.js"
     ],
     "css": [
-      "assets/pages/osztaly/internal/index.svelte-fe13c588.css"
+      "assets/pages/osztaly/index.svelte-3b792b19.css"
     ]
   },
   "src/routes/osztaly/internal/[name].svelte": {
-    "file": "pages/osztaly/internal/_name_.svelte-20358ea9.js",
+    "file": "pages/osztaly/internal/_name_.svelte-a4ab732b.js",
     "src": "src/routes/osztaly/internal/[name].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-57833bbe.js",
-      "_functions-8420778b.js",
-      "_topRight-5c87e93e.js",
+      "_index-9d55655f.js",
+      "_functions-927932af.js",
+      "_topRight-3b3dd44a.js",
       "_paths-b27dcd08.js",
       "_paths-4b3c6e7e.js"
     ]
   },
   "src/routes/osztaly/[name].svelte": {
-    "file": "pages/osztaly/_name_.svelte-2cef7b24.js",
+    "file": "pages/osztaly/_name_.svelte-3c95844e.js",
     "src": "src/routes/osztaly/[name].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-57833bbe.js",
-      "_functions-8420778b.js",
-      "_topRight-5c87e93e.js",
+      "_index-9d55655f.js",
+      "_functions-927932af.js",
+      "_topRight-3b3dd44a.js",
       "_paths-b27dcd08.js",
       "_paths-4b3c6e7e.js"
     ]
   },
   "src/routes/egyeb/szalagavatovideo.svelte": {
-    "file": "pages/egyeb/szalagavatovideo.svelte-7a9362ae.js",
+    "file": "pages/egyeb/szalagavatovideo.svelte-e9d7f7bf.js",
     "src": "src/routes/egyeb/szalagavatovideo.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-57833bbe.js",
+      "_index-9d55655f.js",
       "_paths-4b3c6e7e.js"
     ],
     "css": [
@@ -157,20 +157,20 @@
     ]
   },
   "src/routes/egyeb/bejelentkezes.svelte": {
-    "file": "pages/egyeb/bejelentkezes.svelte-75d510aa.js",
+    "file": "pages/egyeb/bejelentkezes.svelte-a45c6dd3.js",
     "src": "src/routes/egyeb/bejelentkezes.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-57833bbe.js",
+      "_index-9d55655f.js",
       "_singletons-4a680913.js"
     ],
     "css": [
       "assets/pages/egyeb/bejelentkezes.svelte-b5bca343.css"
     ]
   },
-  "_index-57833bbe.js": {
-    "file": "chunks/index-57833bbe.js"
+  "_index-9d55655f.js": {
+    "file": "chunks/index-9d55655f.js"
   },
   "_singletons-4a680913.js": {
     "file": "chunks/singletons-4a680913.js"
@@ -184,27 +184,27 @@
       "_paths-4b3c6e7e.js"
     ]
   },
-  "_functions-8420778b.js": {
-    "file": "chunks/functions-8420778b.js",
+  "_functions-927932af.js": {
+    "file": "chunks/functions-927932af.js",
     "imports": [
       "_paths-4b3c6e7e.js"
     ]
   },
-  "_topRight-5c87e93e.js": {
-    "file": "chunks/topRight-5c87e93e.js",
+  "_topRight-3b3dd44a.js": {
+    "file": "chunks/topRight-3b3dd44a.js",
     "imports": [
-      "_index-57833bbe.js",
+      "_index-9d55655f.js",
       "_paths-4b3c6e7e.js",
       "_paths-b27dcd08.js"
     ],
     "css": [
-      "assets/topRight-d38a10e5.css"
+      "assets/topRight-fe7d2adb.css"
     ]
   },
-  "_friendsItem-9413b73b.js": {
-    "file": "chunks/friendsItem-9413b73b.js",
+  "_friendsItem-8cb62957.js": {
+    "file": "chunks/friendsItem-8cb62957.js",
     "imports": [
-      "_index-57833bbe.js"
+      "_index-9d55655f.js"
     ],
     "css": [
       "assets/friendsItem-ca6e8348.css"
